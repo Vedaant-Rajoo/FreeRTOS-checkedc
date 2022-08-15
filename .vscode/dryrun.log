@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/vrajoo/Documents/FreeRTOS-checkedc'
+make: Leaving directory '/home/vrajoo/Documents/FreeRTOS-checkedc'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
